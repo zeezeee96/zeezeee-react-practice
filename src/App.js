@@ -134,11 +134,11 @@
 
 
 import { useState } from 'react';
-import Routingapp from './Routingapp';
+import StudentRouting from './Studentrouting';
 const App = () => {
   return (
     <div>
-      <Routingapp />
+      <StudentRouting />
     </div>
   );
 };
